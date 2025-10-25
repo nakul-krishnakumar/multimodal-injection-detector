@@ -1,0 +1,17 @@
+[project]
+name = "multimodal-injection-detector"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "datasets>=4.3.0",
+    "ipykernel>=7.0.1",
+    "markupsafe>=3.0.3",
+    "matplotlib>=3.10.7",
+    "pandas>=2.3.3",
+    "python-dotenv>=1.1.1",
+    "torch>=2.9.0",
+    "torchvision>=0.24.0",
+    "transformers>=4.57.1",
+]
