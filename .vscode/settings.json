@@ -1,5 +1,7 @@
 {
-  "python.defaultInterpreterPath": "/home/adwaith23/nakul/multimodal-injection-detector/.venv/bin/python3",
-  "jupyter.jupyterServerType": "local",
-  "python-envs.pythonProjects": []
+    "python.defaultInterpreterPath": "/home/adwaith23/nakul/multimodal-injection-detector/.venv/bin/python3",
+    "jupyter.jupyterServerType": "local",
+    "python-envs.pythonProjects": [],
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": false
 }
